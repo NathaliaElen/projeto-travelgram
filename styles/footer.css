@@ -1,0 +1,13 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-block: 24px;
+  font: var(--text-md);
+}
+
+footer > div {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
